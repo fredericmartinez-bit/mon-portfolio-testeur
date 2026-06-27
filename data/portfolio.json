@@ -1,0 +1,14 @@
+[
+  {
+    "image": "ecobliss-screenshot.png",
+    "title": "Eco Bliss Bath – Tests automatisés",
+    "text": "Suite de tests end-to-end avec Cypress sur un site e-commerce (Angular + Symfony) : parcours fonctionnels (connexion, panier), endpoints API, smoke tests et sécurité XSS. 31 tests automatisés, 100% de réussite.",
+    "link": "https://github.com/fredericmartinez-bit/Eco-Bliss-Bath-Tests"
+  },
+  {
+    "image": "sophiebluel-screenshot.png",
+    "title": "Sophie Bluel – Portfolio d'architecte",
+    "text": "Intégration d'un portfolio d'architecte d'intérieur en HTML/CSS/JavaScript, connecté à une API backend. Gestion dynamique du contenu, authentification et formulaire d'ajout de projets.",
+    "link": "https://github.com/fredericmartinez-bit/Sophie-Bluel-Final"
+  }
+]
